@@ -7,7 +7,7 @@ WebApp that takes in PDF, and allows user to ask questions about the PDF
 
 Code from [Prompt Engineer] 
 
-##requirements 
+# #requirements 
 langchain==0.0.154
 PyPDF2==3.0.1
 python-dotenv==1.0.0
